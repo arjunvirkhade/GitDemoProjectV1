@@ -6,10 +6,9 @@ public class Test1 {
 		String hungry="yes";
 		if(hungry=="yes")
 		{
-			System.out.println("get me a glass of water...");
+			System.out.println("eat something...");
 		}else {
 			System.out.println("i will be there ");
 		}
 	}
-
 }
